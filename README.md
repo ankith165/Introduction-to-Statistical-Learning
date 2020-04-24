@@ -3,7 +3,7 @@ An Introduction to Statistical Learning: With Applications in R
 
 ## ABOUT THIS COURSE
 
-![CoverPhoto](stat-learning.jpeg)
+![CoverPhoto](CoverPage.jpeg)
 
 This is an introductory-level course in supervised learning, with a focus on regression and classification methods. The syllabus includes: linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines. Some unsupervised learning methods are discussed: principal components and clustering (k-means and hierarchical).
 
