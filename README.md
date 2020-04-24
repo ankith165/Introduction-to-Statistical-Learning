@@ -1,7 +1,7 @@
 # Introduction-to-Statistical-Learning
 An Introduction to Statistical Learning: With Applications in R
 
-## ABOUT THIS COURSE
+## ABOUT THIS BOOK
 
 ![CoverPhoto](CoverPage.jpg)
 
